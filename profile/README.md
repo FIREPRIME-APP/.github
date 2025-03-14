@@ -1,7 +1,7 @@
 # FIREPRIME App
 ![](https://github.com/FIREPRIME-APP/.github/blob/main/media/FIREPRIME_Logo_A.png)
 
-https://github.com/FIREPRIME-APP/.github/blob/main/media/FIREPRIME_App_en.mp4
+You can see the app in action in the following video: https://github.com/FIREPRIME-APP/.github/blob/main/media/FIREPRIME_App_en_480.mp4
 
 ## Contributing
 
